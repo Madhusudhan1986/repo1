@@ -4,7 +4,7 @@ public class App {
     }
 
     public static void sayHello() {
-        System.out.println("Hello from master");
+        System.out.println("Hello from madhu2-feature");
     }
 }
 
